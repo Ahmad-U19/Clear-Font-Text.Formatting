@@ -1,0 +1,34 @@
+#box1{
+    width: 200px;
+    border: 1px solid black;
+    float: left;
+}
+#box2{
+    width: 300px;
+    border: 1px solid red;
+    text-align: center;
+    text-transform: capitalize;
+    word-spacing: 5px;
+    letter-spacing: 2px;
+    float: right;
+}
+#box3{
+    width: auto;
+    margin-top: 50px;
+    border: 1px solid green;
+    clear: both;
+}
+
+#Text{
+    margin-top: 10px;
+    margin-left: 20px;
+    padding: 20px;
+    width: 700px;
+    border: 1px dashed tan;
+    font-size: 25px;
+    font-style: oblique;
+    font-variant: inherit;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 70px;
+    font-weight: bolder;
+}
